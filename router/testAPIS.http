@@ -1,0 +1,6 @@
+POST http://localhost:8000/api/token
+Content-Type: application/json
+
+{
+    "token":"5966411547:AAFAI3NshRP76tfa6lYBdmEM-3m9wchh8q4"
+}

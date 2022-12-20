@@ -1,0 +1,21 @@
+{
+  "name": "telegraf-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.0",
+    "netlify-lambda": "^2.0.15",
+    "redis": "^4.5.1",
+    "serverless-http": "^3.1.0",
+    "smee-client": "^1.2.3",
+    "telegraf": "^4.11.2"
+  }
+}
